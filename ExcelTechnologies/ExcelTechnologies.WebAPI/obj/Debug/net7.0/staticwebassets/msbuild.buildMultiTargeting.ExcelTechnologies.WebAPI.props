@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ExcelTechnologies.WebAPI.props" />
+</Project>

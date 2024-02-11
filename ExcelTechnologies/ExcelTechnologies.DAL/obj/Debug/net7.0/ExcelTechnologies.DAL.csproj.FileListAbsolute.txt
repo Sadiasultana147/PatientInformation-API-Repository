@@ -1,0 +1,17 @@
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\bin\Debug\net7.0\ExcelTechnologies.DAL.deps.json
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\bin\Debug\net7.0\ExcelTechnologies.DAL.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\bin\Debug\net7.0\ExcelTechnologies.DAL.pdb
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\bin\Debug\net7.0\ExcelTechnologies.BAL.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\bin\Debug\net7.0\ExcelTechnologiesModel.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\bin\Debug\net7.0\ExcelTechnologies.BAL.pdb
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\bin\Debug\net7.0\ExcelTechnologiesModel.pdb
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\obj\Debug\net7.0\ExcelTechnologies.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\obj\Debug\net7.0\ExcelTechnologies.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\obj\Debug\net7.0\ExcelTechnologies.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\obj\Debug\net7.0\ExcelTechnologies.DAL.AssemblyInfo.cs
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\obj\Debug\net7.0\ExcelTechnologies.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\obj\Debug\net7.0\ExcelTechnologies.DAL.csproj.CopyComplete
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\obj\Debug\net7.0\ExcelTechnologies.DAL.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\obj\Debug\net7.0\refint\ExcelTechnologies.DAL.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\obj\Debug\net7.0\ExcelTechnologies.DAL.pdb
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.DAL\obj\Debug\net7.0\ref\ExcelTechnologies.DAL.dll

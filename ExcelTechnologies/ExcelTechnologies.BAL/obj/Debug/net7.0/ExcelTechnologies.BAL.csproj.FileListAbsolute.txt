@@ -1,0 +1,15 @@
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\bin\Debug\net7.0\ExcelTechnologies.BAL.deps.json
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\bin\Debug\net7.0\ExcelTechnologies.BAL.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\bin\Debug\net7.0\ExcelTechnologies.BAL.pdb
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\bin\Debug\net7.0\ExcelTechnologiesModel.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\bin\Debug\net7.0\ExcelTechnologiesModel.pdb
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\obj\Debug\net7.0\ExcelTechnologies.BAL.csproj.AssemblyReference.cache
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\obj\Debug\net7.0\ExcelTechnologies.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\obj\Debug\net7.0\ExcelTechnologies.BAL.AssemblyInfoInputs.cache
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\obj\Debug\net7.0\ExcelTechnologies.BAL.AssemblyInfo.cs
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\obj\Debug\net7.0\ExcelTechnologies.BAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\obj\Debug\net7.0\ExcelTechnologies.BAL.csproj.CopyComplete
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\obj\Debug\net7.0\ExcelTechnologies.BAL.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\obj\Debug\net7.0\refint\ExcelTechnologies.BAL.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\obj\Debug\net7.0\ExcelTechnologies.BAL.pdb
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologies.BAL\obj\Debug\net7.0\ref\ExcelTechnologies.BAL.dll

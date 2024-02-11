@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dI00fnIWAGez0K+qL0SKFbvg9324SI+23Xn2d2jypSg=",
+  "Source": "ExcelTechnologies.WebAPI",
+  "BasePath": "_content/ExcelTechnologies.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

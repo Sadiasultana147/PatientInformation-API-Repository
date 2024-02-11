@@ -1,0 +1,12 @@
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\bin\Debug\net7.0\ExcelTechnologiesModel.deps.json
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\bin\Debug\net7.0\ExcelTechnologiesModel.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\bin\Debug\net7.0\ExcelTechnologiesModel.pdb
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\obj\Debug\net7.0\ExcelTechnologiesModel.csproj.AssemblyReference.cache
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\obj\Debug\net7.0\ExcelTechnologiesModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\obj\Debug\net7.0\ExcelTechnologiesModel.AssemblyInfoInputs.cache
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\obj\Debug\net7.0\ExcelTechnologiesModel.AssemblyInfo.cs
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\obj\Debug\net7.0\ExcelTechnologiesModel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\obj\Debug\net7.0\ExcelTechnologiesModel.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\obj\Debug\net7.0\refint\ExcelTechnologiesModel.dll
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\obj\Debug\net7.0\ExcelTechnologiesModel.pdb
+C:\Users\HP\Pictures\ExcelTechnologies\ExcelTechnologiesModel\obj\Debug\net7.0\ref\ExcelTechnologiesModel.dll
